@@ -1,0 +1,13 @@
+NIM :1811500020
+NAMA : WINDERI ARDIANTI
+KELOMPOK :TI6A
+
+Hasil saya menyadur :
+
+1) Buat kelompok untuk presentasi sebanyak 3 orang per kelompok
+2) Buat saduran di setiap pertemuan dan dikirim ke github
+3) Perkenalan dosen dan belajar bagaimana cara berkomunikasi yang baik dengan dosen
+4) Cara menghitung nilai akhir dan grade
+5) Tetap mengikuti protokol dengan menerapkan 5M
+6) Software yang dipakai untuk mata kuliah analisisis Dan perancangan RPL, adalah astah comunity 6
+7) Penjelasan perkuliahan yang menggunakan Classroom,Youtube dan Telegram
